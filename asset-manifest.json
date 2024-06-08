@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/work-game/static/css/main.3784a1e7.css",
-    "main.js": "/work-game/static/js/main.3c4b0d4a.js",
+    "main.css": "/work-game/static/css/main.fef7d43f.css",
+    "main.js": "/work-game/static/js/main.9a48a6ac.js",
     "static/js/453.99390f3a.chunk.js": "/work-game/static/js/453.99390f3a.chunk.js",
     "static/media/logo.svg": "/work-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/work-game/index.html",
-    "main.3784a1e7.css.map": "/work-game/static/css/main.3784a1e7.css.map",
-    "main.3c4b0d4a.js.map": "/work-game/static/js/main.3c4b0d4a.js.map",
+    "main.fef7d43f.css.map": "/work-game/static/css/main.fef7d43f.css.map",
+    "main.9a48a6ac.js.map": "/work-game/static/js/main.9a48a6ac.js.map",
     "453.99390f3a.chunk.js.map": "/work-game/static/js/453.99390f3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3784a1e7.css",
-    "static/js/main.3c4b0d4a.js"
+    "static/css/main.fef7d43f.css",
+    "static/js/main.9a48a6ac.js"
   ]
 }
